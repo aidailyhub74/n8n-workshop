@@ -1,0 +1,11 @@
+Course ID,Title,Description,Instructor Name,Category,Level,Duration,Language,Certificate Available,Course Start Date,Price (₹)
+C001,Python Programming Masterclass,Learn Python from basics to advanced concepts with projects.,Rahul Sharma,Programming,Beginner,20 Hours,English,Yes,18-09-2026,"2,999"
+C002,Full Stack Web Development,Build modern web applications using React and Node.js.,Priya Verma,Programming,Intermediate,35 Hours,English,Yes,19-09-2026,"4,999"
+C003,Data Science with Python,"Data analysis, visualization, and machine learning fundamentals.",Amit Patel,Data Science,Intermediate,30 Hours,English,Yes,20-09-2026,"5,999"
+C004,Digital Marketing Essentials,"SEO, social media marketing, and paid advertising techniques.",Neha Gupta,Marketing,Beginner,15 Hours,Hindi,Yes,21-09-2026,"2,499"
+C005,UI/UX Design Fundamentals,Create intuitive and engaging digital experiences.,Karan Mehta,Design,Beginner,18 Hours,English,Yes,22-09-2026,"3,499"
+C006,Cloud Computing with AWS,Learn AWS services and cloud deployment strategies.,Sneha Reddy,Cloud Computing,Advanced,40 Hours,English,Yes,23-09-2026,"6,999"
+C007,Cybersecurity Basics,Introduction to network security and ethical hacking.,Vikram Singh,Cybersecurity,Beginner,22 Hours,English,No,24-09-2026,"3,999"
+C008,Machine Learning A-Z,End-to-end machine learning concepts and implementation.,Anjali Kapoor,Artificial Intelligence,Advanced,45 Hours,English,Yes,25-09-2026,"7,499"
+C009,Mobile App Development with Flutter,Build Android and iOS applications using Flutter.,Rohit Jain,Mobile Development,Intermediate,28 Hours,English,Yes,26-09-2026,"4,499"
+C010,Excel for Business Analytics,Advanced Excel for reporting and business insights.,Pooja Nair,Business Analytics,Beginner,12 Hours,English,Yes,27-09-2026,"1,999"
