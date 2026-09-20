@@ -65,13 +65,14 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 
 Go to **<http://localhost:5678>** and create your owner account.
 
-🎥 Watch the step-by-step video: [Get Started with n8n](https://www.youtube.com/) *(replace with your video link)*
+🎥 Watch the step-by-step video: [Get Started with n8n](https://www.youtube.com/)
 
 ---
 
 ## 💡 Follow Us for More Such Content
 
 - LinkedIn Page 👉 [Link](https://www.linkedin.com/company/aidailyhub)
+- Youtube Channel 👉 [Link](https://www.youtube.com/@aidailyhub)
 - Telegram Channel 👉 [Link](https://t.me/+6jdRLJzZRZExMzJl)
 
 ---
