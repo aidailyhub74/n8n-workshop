@@ -58,18 +58,8 @@ docker volume create n8n_data
 **Step 3: Run n8n**
 
 ```bash
-docker run -it --rm \
-  --name n8n \
-  -p 5678:5678 \
-  -v n8n_data:/home/node/.n8n \
-  docker.n8n.io/n8nio/n8n
+docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
 ```
-
-> 📝 **Windows (PowerShell) users:** replace the `\` line continuations with a backtick (`` ` ``), or paste the command on a single line:
->
-> ```powershell
-> docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
-> ```
 
 **Step 4: Open n8n in your browser**
 
